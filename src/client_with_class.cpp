@@ -1,5 +1,5 @@
 #include <stdlib.h>//for converting argv to int
-#include <move_base_clients/MoveBaseClientNode.h>
+#include <moveBaseClient/MoveBaseClientNode.h>
 
 int main(int argc, char *argv[])
 {

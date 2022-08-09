@@ -1,4 +1,4 @@
-#include <move_base_clients/MoveBaseClientNode.h>
+#include <moveBaseClient/MoveBaseClientNode.h>
 
 MoveBaseClientNode::MoveBaseClientNode(std::string node_name,std::string action_name):ac(action_name, true)
 {
